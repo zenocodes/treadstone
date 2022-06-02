@@ -1,3 +1,3 @@
 # treadstone
 
-simplae progect to learn git commans
+simple progect to learn git commans
