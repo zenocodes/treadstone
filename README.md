@@ -1,3 +1,3 @@
 # treadstone
 
-simplae progect to lean git commans
+simple progect to lean git commans
