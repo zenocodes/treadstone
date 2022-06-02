@@ -1,3 +1,3 @@
 # treadstone
 
-simple progect to learn git commands
+simple project to learn git commands
