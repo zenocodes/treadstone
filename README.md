@@ -1,3 +1,3 @@
 # treadstone
 
-simplae progect to lean git commands
+simple progect to learn git commands
